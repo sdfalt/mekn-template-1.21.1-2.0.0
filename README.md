@@ -1,5 +1,7 @@
 # mekn-template-1.21.1—2.0.0
 
+此模组为DeepSeekv4.1 Flash开发完成
+
 MekN 2.0.0
 ===========
 
