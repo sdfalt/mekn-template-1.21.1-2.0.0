@@ -1,0 +1,15 @@
+{
+  "type": "mekanism:purifying",
+  "chemical_input": {
+    "amount": 1,
+    "chemical": "mekanism:oxygen"
+  },
+  "item_input": {
+    "count": 1,
+    "item": "mekn:magnesium_shard"
+  },
+  "output": {
+    "id": "mekn:magnesium_clump"
+  },
+  "per_tick_usage": true
+}

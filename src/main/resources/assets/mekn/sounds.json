@@ -1,0 +1,50 @@
+{
+  "machine_work": {
+    "subtitle": "sounds.mekn.machine_work",
+    "sounds": [
+      {
+        "name": "mekn:machine_work",
+        "attenuation_distance": 12,
+        "volume": 0.6,
+        "pitch": 1.0,
+        "stream": true
+      }
+    ]
+  },
+  "centrifuge": {
+    "subtitle": "sounds.mekn.centrifuge",
+    "sounds": [
+      {
+        "name": "mekn:centrifuge",
+        "attenuation_distance": 12,
+        "volume": 0.6,
+        "pitch": 1.0,
+        "stream": true
+      }
+    ]
+  },
+  "air_purifier": {
+    "subtitle": "sounds.mekn.air_purifier",
+    "sounds": [
+      {
+        "name": "mekn:air_purifier",
+        "attenuation_distance": 12,
+        "volume": 0.6,
+        "pitch": 1.0,
+        "stream": true
+      }
+    ]
+  },
+  "scifi_machine": {
+    "subtitle": "sounds.mekn.scifi_machine",
+    "sounds": [
+      {
+        "name": "mekn:scifi_machine",
+        "attenuation_distance": 12,
+        "volume": 0.6,
+        "pitch": 1.0,
+        "stream": true
+      }
+    ]
+  }
+}

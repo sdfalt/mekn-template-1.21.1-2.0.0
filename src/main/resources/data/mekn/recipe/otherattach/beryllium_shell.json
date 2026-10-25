@@ -1,0 +1,15 @@
+{
+  "type": "mekanism:combining",
+  "main_input": {
+    "count": 32,
+    "item": "mekn:beryllium_dust"
+  },
+  "extra_input": {
+    "count": 1,
+    "item": "mekn:steel_mold"
+  },
+  "output": {
+    "count": 1,
+    "id": "mekn:beryllium_shell"
+  }
+}

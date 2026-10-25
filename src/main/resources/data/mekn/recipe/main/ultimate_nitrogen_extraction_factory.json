@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AUA",
+    "DED",
+    "AUA"
+  ],
+  "key": {
+    "A": { "item": "mekanism:alloy_atomic" },
+    "U": { "item": "mekanism:ultimate_control_circuit" },
+    "D": { "item": "minecraft:diamond" },
+    "E": { "item": "mekn:elite_nitrogen_extraction_factory" }
+  },
+  "result": {
+    "id": "mekn:ultimate_nitrogen_extraction_factory",
+    "count": 1
+  }
+}

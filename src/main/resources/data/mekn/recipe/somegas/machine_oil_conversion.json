@@ -1,0 +1,19 @@
+{
+  "type": "mekanism:rotary",
+  "fluid_input": {
+    "tag": "c:machine_oil",
+    "amount": 1
+  },
+  "chemical_output": {
+    "amount": 1,
+    "id": "mekn:machine_oil"
+  },
+  "chemical_input": {
+    "amount": 1,
+    "chemical": "mekn:machine_oil"
+  },
+  "fluid_output": {
+    "amount": 1,
+    "id": "mekn:machine_oil"
+  }
+}

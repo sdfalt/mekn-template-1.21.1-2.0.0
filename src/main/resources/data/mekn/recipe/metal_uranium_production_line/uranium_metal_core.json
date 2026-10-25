@@ -1,0 +1,16 @@
+{
+  "type": "mekanism:metallurgic_infusing",
+  "chemical_input": {
+    "amount": 10,
+    "chemical": "mekn:enriched_magnesium"
+  },
+  "item_input": {
+    "count": 1,
+    "item": "mekn:uranium_dioxide_dust"
+  },
+  "output": {
+    "count": 1,
+    "id": "mekn:uranium_metal_core"
+  },
+  "per_tick_usage": false
+}

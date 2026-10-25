@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "mekn:block/nitrogen_extractor", "y": 0 },
+    "facing=south": { "model": "mekn:block/nitrogen_extractor", "y": 180 },
+    "facing=west":  { "model": "mekn:block/nitrogen_extractor", "y": 270 },
+    "facing=east":  { "model": "mekn:block/nitrogen_extractor", "y": 90 }
+  }
+}

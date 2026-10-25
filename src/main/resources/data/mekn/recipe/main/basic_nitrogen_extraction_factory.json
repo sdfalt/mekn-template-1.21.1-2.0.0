@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RCR",
+    "IEI",
+    "RCR"
+  ],
+  "key": {
+    "R": { "item": "minecraft:redstone" },
+    "C": { "item": "mekanism:basic_control_circuit" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "E": { "item": "mekn:nitrogen_extractor" }
+  },
+  "result": {
+    "id": "mekn:basic_nitrogen_extraction_factory",
+    "count": 1
+  }
+}

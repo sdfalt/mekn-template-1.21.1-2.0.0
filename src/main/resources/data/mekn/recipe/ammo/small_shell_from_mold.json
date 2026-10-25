@@ -1,0 +1,16 @@
+{
+  "type": "mekn:nuclear_engineering",
+  "itemInputs": [
+    { "count": 1, "item": "superbwarfare:primer" },
+    { "count": 2, "item": "minecraft:copper_ingot" },
+    { "count": 1, "item": "superbwarfare:high_energy_explosives" },
+    { "count": 1, "item": "mekanism:ingot_steel" },
+    { "count": 1, "item": "superbwarfare:grain" },
+    { "count": 1, "item": "mekn:mold_small_rocket" }
+  ],
+  "fluidInput": { "amount": 500, "fluid": "mekn:machine_oil" },
+  "chemicalInput": { "amount": 500, "chemical": "mekn:nitrogen" },
+  "output": { "id": "superbwarfare:small_shell", "count": 4 },
+  "ticks": 80,
+  "energy_per_tick": 40000
+}

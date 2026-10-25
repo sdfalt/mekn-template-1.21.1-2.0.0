@@ -1,0 +1,16 @@
+{
+  "type": "mekanism:metallurgic_infusing",
+  "chemical_input": {
+    "amount": 100,
+    "chemical": "mekn:nitric_acid"
+  },
+  "item_input": {
+    "count": 1,
+    "item": "mekn:animal_fat"
+  },
+  "output": {
+    "count": 1,
+    "id": "mekn:nitroglycerin_pellet"
+  },
+  "per_tick_usage": false
+}

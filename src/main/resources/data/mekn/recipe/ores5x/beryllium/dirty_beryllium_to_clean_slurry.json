@@ -1,0 +1,15 @@
+{
+  "type": "mekanism:washing",
+  "fluid_input": {
+    "amount": 5,
+    "tag": "minecraft:water"
+  },
+  "chemical_input": {
+    "amount": 1000,
+    "chemical": "mekn:dirty_beryllium_slurry"
+  },
+  "output": {
+    "amount": 1000,
+    "id": "mekn:clean_beryllium_slurry"
+  }
+}

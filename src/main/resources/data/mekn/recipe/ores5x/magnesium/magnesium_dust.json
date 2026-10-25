@@ -1,0 +1,10 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "count": 1,
+    "item": "mekn:dirty_magnesium_dust"
+  },
+  "output": {
+    "id": "mekn:magnesium_dust"
+  }
+}

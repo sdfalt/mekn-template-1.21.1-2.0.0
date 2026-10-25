@@ -1,0 +1,17 @@
+{
+  "type": "mekanism:chemical_conversion",
+  "input": {
+    "type": "neoforge:compound",
+    "children": [
+      { "item": "mekn:magnesium_dust" },
+      { "item": "mekn:dirty_magnesium_dust" },
+      { "item": "mekn:magnesium_crystal" },
+      { "item": "mekn:raw_magnesium" }
+    ],
+    "count": 1
+  },
+  "output": {
+    "amount": 10,
+    "id": "mekn:enriched_magnesium"
+  }
+}

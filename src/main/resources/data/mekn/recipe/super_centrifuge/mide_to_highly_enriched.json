@@ -1,0 +1,15 @@
+{
+  "type": "mekn:super_centrifuge",
+  "input": {
+    "chemical_type": "gas",
+    "amount": 500,
+    "id": "mekn:medium_concentration_uranium_hexafluoride"
+  },
+  "output": {
+    "chemical_type": "gas",
+    "amount": 5,
+    "id": "mekn:high_concentration_uranium_hexafluoride"
+  },
+  "process_ticks": 600,
+  "energy_per_tick": 1200
+}

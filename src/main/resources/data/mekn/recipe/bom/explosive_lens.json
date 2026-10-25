@@ -1,0 +1,35 @@
+{
+  "type": "mekn:nuclear_engineering",
+  "itemInputs": [
+    {
+      "count": 9,
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "count": 8,
+      "item": "mekanism:structural_glass"
+    },
+    {
+      "count": 9,
+      "item": "mekn:nitroglycerin_pellet"
+    },
+    {
+      "count": 16,
+      "item": "mekn:zircon_ingot"
+    }
+  ],
+  "fluidInput": {
+    "amount": 500,
+    "fluid": "mekn:machine_oil"
+  },
+  "chemicalInput": {
+    "amount": 500,
+    "chemical": "mekn:nitrogen"
+  },
+  "output": {
+    "count": 1,
+    "id": "mekn:explosive_lens"
+  },
+  "ticks": 600,
+  "energy_per_tick": 15000000
+}

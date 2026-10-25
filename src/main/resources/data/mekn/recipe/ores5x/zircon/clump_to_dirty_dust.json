@@ -1,0 +1,10 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "count": 1,
+    "item": "mekn:zircon_clump"
+  },
+  "output": {
+    "id": "mekn:dirty_zircon_dust"
+  }
+}

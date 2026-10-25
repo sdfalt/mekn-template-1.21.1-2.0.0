@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mekn:item/uranium_oxide_crystal"
+  }
+}

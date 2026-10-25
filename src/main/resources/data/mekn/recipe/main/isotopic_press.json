@@ -1,0 +1,28 @@
+{
+  "type": "mekn:nuclear_engineering",
+  "itemInputs": [
+    { "item": "mekn:super_casing", "count": 1 },
+    { "item": "mekanism:pressurized_reaction_chamber", "count": 1 },
+    { "item": "mekanism:basic_control_circuit", "count": 9 },
+    { "item": "mekanism:advanced_control_circuit", "count": 9 },
+    { "item": "mekanism:elite_control_circuit", "count": 9 },
+    { "item": "mekanism:ultimate_control_circuit", "count": 9 },
+    { "item": "mekanism:advanced_induction_cell", "count": 1 },
+    { "item": "mekn:zirconium_block", "count": 8 },
+    { "item": "mekanism:pellet_antimatter", "count": 1 }
+  ],
+  "fluidInput": {
+    "fluid": "mekn:machine_oil",
+    "amount": 2000
+  },
+  "chemicalInput": {
+    "chemical": "mekn:medium_concentration_uranium_hexafluoride",
+    "amount": 1000
+  },
+  "output": {
+    "id": "mekn:isotopic_encapsulation_press",
+    "count": 1
+  },
+  "ticks": 600,
+  "energy_per_tick": 200000
+}

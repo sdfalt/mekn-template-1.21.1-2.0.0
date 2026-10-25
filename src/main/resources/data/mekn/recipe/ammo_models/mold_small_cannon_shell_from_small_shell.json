@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["GGG", "GBG", "GGG"],
+  "key": {
+    "G": { "item": "minecraft:glass_pane" },
+    "B": { "item": "superbwarfare:small_shell" }
+  },
+  "result": { "id": "mekn:mold_small_rocket", "count": 1 }
+}

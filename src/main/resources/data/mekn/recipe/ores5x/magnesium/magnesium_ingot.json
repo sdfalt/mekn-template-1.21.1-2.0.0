@@ -1,0 +1,10 @@
+{
+  "type": "mekanism:smelting",
+  "input": {
+    "count": 1,
+    "item": "mekn:magnesium_dust"
+  },
+  "output": {
+    "id": "mekn:magnesium_ingot"
+  }
+}

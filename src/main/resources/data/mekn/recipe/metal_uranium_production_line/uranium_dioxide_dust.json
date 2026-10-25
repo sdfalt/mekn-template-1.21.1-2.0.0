@@ -1,0 +1,25 @@
+{
+  "type": "mekanism:reaction",
+  "chemical_input": {
+    "amount": 20,
+    "chemical": "mekanism:hydrogen"
+  },
+  "item_input": {
+    "count": 1,
+    "item": "mekn:uranium_oxide_crystal"
+  },
+  "fluid_input": {
+    "amount": 1,
+    "tag": "minecraft:water"
+  },
+  "item_output": {
+    "count": 1,
+    "id": "mekn:uranium_dioxide_dust"
+  },
+  "chemical_output": {
+    "amount": 40,
+    "id": "mekn:hydrofluoric_acid"
+  },
+  "duration": 200,
+  "energy_required": 5000
+}

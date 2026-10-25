@@ -1,0 +1,47 @@
+{
+  "type": "mekn:nuclear_engineering",
+  "itemInputs": [
+    {
+      "count": 16,
+      "item": "mekn:zirconium_block"
+    },
+    {
+      "count": 4,
+      "item": "mekn:explosive_lens"
+    },
+    {
+      "count": 1,
+      "item": "mekn:polonium_beryllium_neutron_source"
+    },
+    {
+      "count": 1,
+      "item": "mekanismgenerators:turbine_blade"
+    },
+    {
+      "count": 4,
+      "item": "mekn:detonator_tnt"
+    },
+    {
+      "count": 2,
+      "item": "mekn:uranium_metal_core"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:green_dye"
+    }
+  ],
+  "fluidInput": {
+    "amount": 1000,
+    "fluid": "mekn:machine_oil"
+  },
+  "chemicalInput": {
+    "amount": 1000,
+    "chemical": "mekn:nitrogen"
+  },
+  "output": {
+    "count": 1,
+    "id": "mekn:atomic_bomb"
+  },
+  "ticks": 600,
+  "energy_per_tick": 10000000
+}

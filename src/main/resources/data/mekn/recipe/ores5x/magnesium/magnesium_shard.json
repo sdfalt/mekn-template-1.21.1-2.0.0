@@ -1,0 +1,15 @@
+{
+  "type": "mekanism:injecting",
+  "chemical_input": {
+    "amount": 1,
+    "chemical": "mekanism:hydrogen_chloride"
+  },
+  "item_input": {
+    "count": 1,
+    "item": "mekn:magnesium_crystal"
+  },
+  "output": {
+    "id": "mekn:magnesium_shard"
+  },
+  "per_tick_usage": true
+}

@@ -1,0 +1,14 @@
+{
+  "type": "mekn:nuclear_engineering",
+  "itemInputs": [
+    { "item": "mekanism:ultimate_control_circuit", "count": 4 },
+    { "item": "mekn:zirconium_block", "count": 4 },
+    { "item": "mekanism:block_steel", "count": 2 },
+    { "item": "mekanism:structural_glass", "count": 9 }
+  ],
+  "fluidInput": { "fluid": "mekn:machine_oil", "amount": 1000 },
+  "chemicalInput": { "chemical": "mekn:nitrogen", "amount": 1000 },
+  "output": { "id": "mekn:super_casing", "count": 1 },
+  "ticks": 600,
+  "energy_per_tick": 100000
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "mekn:nitroglycerin_pellet"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "P": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "pattern": [
+    "GTG",
+    "TPT",
+    "GTG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mekn:detonator_tnt"
+  }
+}

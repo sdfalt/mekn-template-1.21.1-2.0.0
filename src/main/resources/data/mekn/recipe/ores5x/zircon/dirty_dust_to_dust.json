@@ -1,0 +1,10 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "count": 1,
+    "item": "mekn:dirty_zircon_dust"
+  },
+  "output": {
+    "id": "mekn:zircon_dust"
+  }
+}

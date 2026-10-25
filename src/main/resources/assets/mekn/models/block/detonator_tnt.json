@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "mekn:block/detonator_tnt_top",
+    "bottom": "mekn:block/detonator_tnt_bottom",
+    "side": "mekn:block/detonator_tnt_side"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:smelting",
+  "input": {
+    "item": "mekn:beryllium_shell"
+  },
+  "output": {
+    "id": "mekn:beryllium_shell_fragment"
+  }
+}

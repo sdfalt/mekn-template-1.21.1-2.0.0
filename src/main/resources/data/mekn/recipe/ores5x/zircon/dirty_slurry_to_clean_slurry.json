@@ -1,0 +1,15 @@
+{
+  "type": "mekanism:washing",
+  "fluid_input": {
+    "amount": 5,
+    "tag": "minecraft:water"
+  },
+  "chemical_input": {
+    "amount": 1,
+    "chemical": "mekn:dirty_zircon_slurry"
+  },
+  "output": {
+    "amount": 1,
+    "id": "mekn:clean_zircon_slurry"
+  }
+}

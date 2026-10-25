@@ -1,0 +1,31 @@
+{
+  "type": "mekn:nuclear_engineering",
+  "itemInputs": [
+    {
+      "count": 5,
+      "item": "minecraft:diamond"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:nether_star"
+    },
+    {
+      "count": 6,
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "fluidInput": {
+    "amount": 1000,
+    "fluid": "mekn:machine_oil"
+  },
+  "chemicalInput": {
+    "amount": 1000,
+    "chemical": "mekn:nitrogen"
+  },
+  "output": {
+    "count": 1,
+    "id": "minecraft:netherite_block"
+  },
+  "ticks": 200,
+  "energy_per_tick": 4564350
+}

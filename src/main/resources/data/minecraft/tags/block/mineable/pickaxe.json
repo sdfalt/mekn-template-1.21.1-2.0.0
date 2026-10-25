@@ -1,0 +1,19 @@
+{
+  "values": [
+    "mekn:zircon_ore",
+    "mekn:deepslate_zircon_ore",
+    "mekn:beryllium_ore",
+    "mekn:deepslate_beryllium_ore",
+    "mekn:magnesium_ore",
+    "mekn:deepslate_magnesium_ore",
+    "mekn:nitrogen_extractor",
+    "mekn:nuclear_engineering_table",
+    "mekn:super_centrifuge",
+    "mekn:isotopic_encapsulation_press",
+    "mekn:super_casing",
+    "mekn:basic_nitrogen_extraction_factory",
+    "mekn:advanced_nitrogen_extraction_factory",
+    "mekn:elite_nitrogen_extraction_factory",
+    "mekn:ultimate_nitrogen_extraction_factory"
+  ]
+}

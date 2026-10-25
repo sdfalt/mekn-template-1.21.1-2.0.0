@@ -1,0 +1,10 @@
+{
+  "type": "mekanism:smelting",
+  "input": {
+    "count": 1,
+    "item": "mekn:beryllium_dust"
+  },
+  "output": {
+    "id": "mekn:beryllium_ingot"
+  }
+}

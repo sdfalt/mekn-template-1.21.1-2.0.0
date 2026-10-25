@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "OSO",
+    "IWI",
+    "OSO"
+  ],
+  "key": {
+    "O": {
+      "item": "mekanism:ingot_osmium"
+    },
+    "S": {
+      "item": "mekanism:steel_casing"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "W": {
+      "item": "mekanism:electric_pump"
+    }
+  },
+  "result": {
+    "id": "mekn:nitrogen_extractor",
+    "count": 1
+  }
+}

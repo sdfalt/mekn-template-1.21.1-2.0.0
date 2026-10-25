@@ -1,0 +1,15 @@
+{
+  "type": "mekn:nuclear_engineering",
+  "itemInputs": [
+    { "count": 1, "item": "superbwarfare:fusee" },
+    { "count": 2, "item": "minecraft:iron_ingot" },
+    { "count": 1, "item": "superbwarfare:high_energy_explosives" },
+    { "count": 1, "item": "superbwarfare:primer" },
+    { "count": 1, "item": "mekn:mold_grenade" }
+  ],
+  "fluidInput": { "amount": 500, "fluid": "mekn:machine_oil" },
+  "chemicalInput": { "amount": 500, "chemical": "mekn:nitrogen" },
+  "output": { "id": "superbwarfare:grenade_40mm", "count": 6 },
+  "ticks": 80,
+  "energy_per_tick": 40000
+}

@@ -1,0 +1,14 @@
+{
+  "type": "mekanism:fluid_coolant",
+  "input": {
+    "fluid": "mekn:nitrogen",
+    "amount": 1
+  },
+  "output": {
+    "id": "mekn:nitrogen",
+    "amount": 1
+  },
+  "thermalEnthalpy": 500,
+  "conductivity": 50.0,
+  "efficiency": 2.0
+}

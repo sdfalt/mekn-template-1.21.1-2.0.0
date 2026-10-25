@@ -1,0 +1,15 @@
+{
+  "type": "mekn:nuclear_engineering",
+  "itemInputs": [
+    { "count": 1, "item": "minecraft:tnt" },
+    { "count": 2, "item": "superbwarfare:high_energy_explosives" },
+    { "count": 1, "item": "minecraft:iron_ingot" },
+    { "count": 1, "item": "superbwarfare:fusee" },
+    { "count": 1, "item": "mekn:mold_medium_aviation_bomb" }
+  ],
+  "fluidInput": { "amount": 500, "fluid": "mekn:machine_oil" },
+  "chemicalInput": { "amount": 500, "chemical": "mekn:nitrogen" },
+  "output": { "id": "superbwarfare:medium_aerial_bomb", "count": 1 },
+  "ticks": 80,
+  "energy_per_tick": 40000
+}

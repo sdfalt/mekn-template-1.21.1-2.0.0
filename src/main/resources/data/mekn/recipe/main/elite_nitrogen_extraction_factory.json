@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RER",
+    "GAG",
+    "RER"
+  ],
+  "key": {
+    "R": { "item": "mekanism:alloy_reinforced" },
+    "E": { "item": "mekanism:elite_control_circuit" },
+    "G": { "item": "minecraft:gold_ingot" },
+    "A": { "item": "mekn:advanced_nitrogen_extraction_factory" }
+  },
+  "result": {
+    "id": "mekn:elite_nitrogen_extraction_factory",
+    "count": 1
+  }
+}

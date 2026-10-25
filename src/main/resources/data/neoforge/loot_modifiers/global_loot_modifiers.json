@@ -1,0 +1,20 @@
+{
+  "entries": [
+    "mekn:add_animal_fat_cow",
+    "mekn:add_animal_fat_sheep",
+    "mekn:add_animal_fat_chicken",
+    "mekn:add_animal_fat_pig",
+    "mekn:add_animal_fat_rabbit",
+    "mekn:add_animal_fat_goat",
+    "mekn:add_animal_fat_horse",
+    "mekn:add_animal_fat_donkey",
+    "mekn:add_animal_fat_mule",
+    "mekn:add_animal_fat_llama",
+    "mekn:add_animal_fat_trader_llama",
+    "mekn:add_animal_fat_fox",
+    "mekn:add_animal_fat_wolf",
+    "mekn:add_animal_fat_cat",
+    "mekn:add_animal_fat_parrot"
+  ],
+  "replace": false
+}

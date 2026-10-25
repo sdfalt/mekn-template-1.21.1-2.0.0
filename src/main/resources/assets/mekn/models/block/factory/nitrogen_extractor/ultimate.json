@@ -1,0 +1,15 @@
+{
+  "loader": "neoforge:composite",
+  "parent": "block/block",
+  "textures": {
+    "particle": "mekn:block/nitrogen_extractor/side_nit"
+  },
+  "children": {
+    "base": {
+      "parent": "mekn:block/factory/nitrogen_extractor/base"
+    },
+    "front_led": {
+      "parent": "mekn:block/factory/front_led/ultimate"
+    }
+  }
+}

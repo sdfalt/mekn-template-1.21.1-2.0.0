@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["GGG", "GBG", "GGG"],
+  "key": {
+    "G": { "item": "minecraft:glass_pane" },
+    "B": {
+      "type": "neoforge:components",
+      "items": "tacz:ammo",
+      "components": {
+        "minecraft:custom_data": { "AmmoId": "tacz:556x45" }
+      },
+      "strict": false
+    }
+  },
+  "result": { "id": "mekn:bullet_mold_556x45", "count": 1 }
+}

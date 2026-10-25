@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:chemical_conversion",
+  "input": {
+    "count": 1,
+    "item": "mekn:magnesium_ingot"
+  },
+  "output": {
+    "amount": 90,
+    "id": "mekn:enriched_magnesium"
+  }
+}

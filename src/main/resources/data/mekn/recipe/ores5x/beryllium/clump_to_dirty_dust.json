@@ -1,0 +1,10 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "count": 1,
+    "item": "mekn:beryllium_clump"
+  },
+  "output": {
+    "id": "mekn:dirty_beryllium_dust"
+  }
+}

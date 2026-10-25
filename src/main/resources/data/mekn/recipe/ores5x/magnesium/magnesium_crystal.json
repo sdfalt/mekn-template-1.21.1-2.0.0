@@ -1,0 +1,10 @@
+{
+  "type": "mekanism:crystallizing",
+  "input": {
+    "amount": 200,
+    "chemical": "mekn:clean_magnesium_slurry"
+  },
+  "output": {
+    "id": "mekn:magnesium_crystal"
+  }
+}

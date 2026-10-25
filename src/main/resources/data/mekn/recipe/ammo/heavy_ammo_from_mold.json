@@ -1,0 +1,15 @@
+{
+  "type": "mekn:nuclear_engineering",
+  "itemInputs": [
+    { "count": 2, "item": "minecraft:copper_ingot" },
+    { "count": 1, "item": "minecraft:gunpowder" },
+    { "count": 1, "item": "superbwarfare:primer" },
+    { "count": 1, "item": "mekanism:ingot_steel" },
+    { "count": 1, "item": "mekn:mold_heavy_ammo" }
+  ],
+  "fluidInput": { "amount": 500, "fluid": "mekn:machine_oil" },
+  "chemicalInput": { "amount": 500, "chemical": "mekn:nitrogen" },
+  "output": { "id": "superbwarfare:heavy_ammo", "count": 12 },
+  "ticks": 80,
+  "energy_per_tick": 40000
+}

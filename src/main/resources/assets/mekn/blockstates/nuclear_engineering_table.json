@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,active=false": { "model": "mekn:block/nuclear_engineering_table" },
+    "facing=south,active=false": { "model": "mekn:block/nuclear_engineering_table", "y": 180 },
+    "facing=east,active=false":  { "model": "mekn:block/nuclear_engineering_table", "y": 90 },
+    "facing=west,active=false":  { "model": "mekn:block/nuclear_engineering_table", "y": 270 },
+    "facing=north,active=true":  { "model": "mekn:block/nuclear_engineering_table_active" },
+    "facing=south,active=true":  { "model": "mekn:block/nuclear_engineering_table_active", "y": 180 },
+    "facing=east,active=true":   { "model": "mekn:block/nuclear_engineering_table_active", "y": 90 },
+    "facing=west,active=true":   { "model": "mekn:block/nuclear_engineering_table_active", "y": 270 }
+  }
+}

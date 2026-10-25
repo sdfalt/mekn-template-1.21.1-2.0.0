@@ -1,0 +1,16 @@
+{
+  "type": "mekn:isotopic_pressing",
+  "item_input": {
+    "count": 1,
+    "id": "mekn:beryllium_shell"
+  },
+  "gas_input": {
+    "amount": 100000,
+    "id": "mekanism:polonium"
+  },
+  "output": {
+    "count": 1,
+    "id": "mekn:polonium_beryllium_neutron_source"
+  },
+  "process_ticks": 600
+}

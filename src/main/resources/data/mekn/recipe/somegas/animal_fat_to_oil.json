@@ -1,0 +1,10 @@
+{
+  "type": "mekanism:oxidizing",
+  "input": {
+    "item": "mekn:animal_fat"
+  },
+  "output": {
+    "id": "mekn:machine_oil",
+    "amount": 100
+  }
+}

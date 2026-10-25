@@ -1,0 +1,13 @@
+{
+  "itemGroup.mekn": "Example Mod Tab",
+  "block.mekn.example_block": "Example Block",
+  "item.mekn.example_item": "Example Item",
+
+  "mekn.configuration.title": "MekN Configs",
+  "mekn.configuration.section.mekn.common.toml": "MekN Configs",
+  "mekn.configuration.section.mekn.common.toml.title": "MekN Configs",
+  "mekn.configuration.items": "Item List",
+  "mekn.configuration.logDirtBlock": "Log Dirt Block",
+  "mekn.configuration.magicNumberIntroduction": "Magic Number Text",
+  "mekn.configuration.magicNumber": "Magic Number"
+}

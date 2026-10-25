@@ -1,0 +1,16 @@
+{
+  "type": "mekanism:dissolution",
+  "chemical_input": {
+    "amount": 1,
+    "chemical": "mekanism:sulfuric_acid"
+  },
+  "item_input": {
+    "count": 1,
+    "tag": "mekn:zircon_ores"
+  },
+  "output": {
+    "amount": 1000,
+    "id": "mekn:dirty_zircon_slurry"
+  },
+  "per_tick_usage": true
+}

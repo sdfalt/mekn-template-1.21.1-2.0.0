@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mekn:block/nitrogen_extractor/bottom_nit",
+    "up": "mekn:block/nitrogen_extractor/top_nit",
+    "north": "mekn:block/nitrogen_extractor/side_nit",
+    "south": "mekn:block/nitrogen_extractor/side_nit",
+    "west": "mekn:block/nitrogen_extractor/side_nit",
+    "east": "mekn:block/nitrogen_extractor/side_nit"
+  }
+}

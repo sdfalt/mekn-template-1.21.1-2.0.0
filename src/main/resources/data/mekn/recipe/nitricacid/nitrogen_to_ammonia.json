@@ -1,0 +1,15 @@
+{
+  "type": "mekanism:chemical_infusing",
+  "left_input": {
+    "chemical": "mekn:nitrogen",
+    "amount": 1
+  },
+  "right_input": {
+    "chemical": "mekanism:hydrogen",
+    "amount": 3
+  },
+  "output": {
+    "id": "mekn:ammonia",
+    "amount": 2
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "package": "com.atom.mekn.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "FissionReactorMixin",
+    "MixinFissionReactorMultiblockData",
+    "MixinGeneratorsJEI",
+    "MixinMultiblockData"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "client": [
+    "MixinGuiFissionReactor"
+  ]
+}

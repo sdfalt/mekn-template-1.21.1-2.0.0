@@ -1,0 +1,10 @@
+{
+  "type": "mekanism:smelting",
+  "input": {
+    "count": 1,
+    "item": "mekn:zircon_dust"
+  },
+  "output": {
+    "id": "mekn:zircon_ingot"
+  }
+}

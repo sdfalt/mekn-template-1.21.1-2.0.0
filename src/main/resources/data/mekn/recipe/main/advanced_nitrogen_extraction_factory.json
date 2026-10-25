@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AHA",
+    "OBO",
+    "AHA"
+  ],
+  "key": {
+    "A": { "item": "mekanism:alloy_infused" },
+    "H": { "item": "mekanism:advanced_control_circuit" },
+    "O": { "item": "mekanism:ingot_osmium" },
+    "B": { "item": "mekn:basic_nitrogen_extraction_factory" }
+  },
+  "result": {
+    "id": "mekn:advanced_nitrogen_extraction_factory",
+    "count": 1
+  }
+}

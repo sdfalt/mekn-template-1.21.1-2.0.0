@@ -1,0 +1,10 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "count": 16,
+    "item": "mekn:beryllium_shell_fragment"
+  },
+  "output": {
+    "id": "mekn:sintered_beryllium_shell"
+  }
+}

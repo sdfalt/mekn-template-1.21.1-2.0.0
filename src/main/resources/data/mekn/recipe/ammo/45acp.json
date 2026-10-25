@@ -1,0 +1,19 @@
+{
+  "type": "mekn:nuclear_engineering",
+  "itemInputs": [
+    { "count": 10, "tag": "c:ingots/copper" },
+    { "count": 2, "tag": "c:gunpowders" },
+    { "count": 1, "item": "mekn:bullet_mold_45acp" }
+  ],
+  "fluidInput": { "amount": 500, "fluid": "mekn:machine_oil" },
+  "chemicalInput": { "amount": 500, "chemical": "mekn:nitrogen" },
+  "output": {
+    "id": "tacz:ammo",
+    "count": 30,
+    "components": {
+      "minecraft:custom_data": { "AmmoId": "tacz:45acp" }
+    }
+  },
+  "ticks": 60,
+  "energy_per_tick": 15000
+}

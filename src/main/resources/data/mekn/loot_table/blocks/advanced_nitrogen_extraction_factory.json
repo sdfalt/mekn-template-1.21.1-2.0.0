@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mekn:advanced_nitrogen_extraction_factory"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "mekn:blocks/advanced_nitrogen_extraction_factory"
+}

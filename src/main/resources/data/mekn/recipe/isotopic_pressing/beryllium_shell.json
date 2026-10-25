@@ -1,0 +1,16 @@
+{
+  "type": "mekn:isotopic_pressing",
+  "item_input": {
+    "count": 4,
+    "id": "mekn:beryllium_dust"
+  },
+  "gas_input": {
+    "amount": 200,
+    "id": "mekn:nitrogen"
+  },
+  "output": {
+    "count": 1,
+    "id": "mekn:beryllium_shell"
+  },
+  "process_ticks": 200
+}
